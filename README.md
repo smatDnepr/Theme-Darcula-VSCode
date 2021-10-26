@@ -2,4 +2,8 @@
 
 ## Screenshots
 
-![Screenshot](https://raw.githubusercontent.com/smatDnepr/SVG-Sprite-Generator/master/images/capture-generator-v2.gif)
+![Screenshot](https://raw.githubusercontent.com/smatDnepr/Theme-Darcula-VSCode/master/images/Screenshot_1.png)
+
+![Screenshot](https://raw.githubusercontent.com/smatDnepr/Theme-Darcula-VSCode/master/images/Screenshot_2.png)
+
+![Screenshot](https://raw.githubusercontent.com/smatDnepr/Theme-Darcula-VSCode/master/images/Screenshot_3.png)
