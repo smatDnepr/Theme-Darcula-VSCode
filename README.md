@@ -1,4 +1,4 @@
-# Darcula theme for VSCode"
+# Darcula theme for VSCode
 
 ## Screenshots
 
